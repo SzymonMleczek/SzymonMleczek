@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile! I'm Szymon Mleczek, and occasianlly I make some websites. 
-I'm currently studying IT and my plan is to reach the CCNA Certification before 2027. 
+I'm currently studying IT and my plan is to reach the CCNA Certification somewhere in 2027. 
 Some projects/sites I choose to make public will appear in my Repositories page.
 
 <p align="center">
